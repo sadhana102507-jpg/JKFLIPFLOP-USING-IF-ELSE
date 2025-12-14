@@ -59,7 +59,7 @@ module JK_Flipflop (
 endmodule
 
 ```
-Developed by: SADHANAA R RegisterNumber: 25017643
+Developed by: SADHANA R RegisterNumber: 25017643
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
