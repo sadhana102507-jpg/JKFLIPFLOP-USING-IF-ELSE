@@ -63,7 +63,7 @@ Developed by: SADHANAA R RegisterNumber: 25017643
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/0ce45e9a-13f3-4556-84e4-48984f4c9aa4" />
+<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/026d4374-a6c0-4ae8-86e2-e2c4cd36f7ca" />
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
